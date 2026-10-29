@@ -40,7 +40,7 @@ logger = logging.getLogger("HinataBotLogger")
 # SECTION 2: CONFIGURATION & CREDENTIALS
 # ==============================================================================
 
-TELEGRAM_BOT_TOKEN = "9040400648:AAG6TPmyKx_Gf6aIx3Qqi9gNa60BBks28ZU"
+TELEGRAM_BOT_TOKEN = "9016240062:AAFiSuvZRBvGU5g_xr3s3HVE8dBq37HCQkk"
 GEMINI_API_KEY = "AQ.Ab8RN6LhdOE81BI_C6Ua2wvIdXaKADjaSQcoS3dpTA-h9Rc5xg"
 ELEVENLABS_API_KEY = "sk_66db516d458f8dfe64c1decec0ca07772b0ad20c0106520f"
 ELEVENLABS_VOICE_ID = "MbvAZFK9X29A88RtyBzE"
